@@ -1,4 +1,4 @@
-# A Program that shows First-in First-out CPU Scheduling.
+# A Program that shows First-in First-out CPU Scheduling - using a Queue
 (Assuming that the processes all start in the ready queue)
 
 This project is made in Code::Blocks IDE.
