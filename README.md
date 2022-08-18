@@ -1,5 +1,6 @@
 # A Program that shows First-in First-out CPU Scheduling - using a Queue
 (Assuming that the processes all start in the ready queue)
+![](https://img.shields.io/badge/working-good-green)
 
 This project is made in Code::Blocks IDE.
 
